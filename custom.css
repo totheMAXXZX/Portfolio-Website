@@ -74,8 +74,10 @@ footer a{
 }
 
 @media (max-width: 768px) {
-	.color-overlay
-		min-height:30vh;
+{
+
+.color-overlay{
+	min-height:30vh;
 }
 
 .row{
